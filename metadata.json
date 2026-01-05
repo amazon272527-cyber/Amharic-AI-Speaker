@@ -1,0 +1,7 @@
+{
+  "name": "Amharic AI Speaker",
+  "description": "A sophisticated Amharic Text-to-Speech application powered by Gemini 2.5 Flash, featuring multiple expressive voices and high-quality audio generation.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
